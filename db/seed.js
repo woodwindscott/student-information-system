@@ -23,11 +23,11 @@ module.exports = (db) => {
   });
 
   db.Parent.bulkCreate(parentDataJSON).then(function () {
-    return db.Student.bulkCreate(studentDataJSON);
+    return db.Approved.bulkCreate(approvedDataJSON);
   }).then(function () {
     return db.Teacher.bulkCreate(teacherDataJSON);
   }).then(function () {
-    return db.Approved.bulkCreate(approvedDataJSON);
+    return db.Student.bulkCreate(studentDataJSON);
   }).then(function () {
     console.log('Seed completed.');
   });
