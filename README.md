@@ -9,7 +9,7 @@ one central hub to update critical information regarding students quickly streng
 
 ## Getting Started
 
-You can view the current build of S.I.S. at https://william-project2.herokuapp.com/
+You can view the current build of S.I.S. at https://s-i-s.herokuapp.com/
 
 
 ### Installing
