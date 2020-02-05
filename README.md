@@ -1,4 +1,4 @@
-![STUDENT INFORMATION SYSTEM](/static-files/public/assets/logos/s_i_s.svg)
+<img src="public/assets/images/logos/s_i_s.svg" width="300px" align="center">
 
 # Student Information System
 
