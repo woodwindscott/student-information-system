@@ -1,4 +1,6 @@
-<img src="public/assets/images/logos/s_i_s.svg" width="300px" align="center">
+<p align="center">
+  <img src="public/assets/images/logos/s_i_s.svg" width="300px">
+</p>
 
 # Student Information System
 
@@ -30,13 +32,11 @@ Any feedback please reach out via GitHub.
 
 ## Authors
 
-* **Jessie Sholler** - [https://github.com/JAE-S]
-* **William Whitted** - [https://github.com/youngedre]
-* **Matthew Parks** - [https://github.com/MPA120]
-* **Scott Moore** - [https://github.com/woodwindscott]
-* **Kevin Zhao Ma** - [https://github.com/zhaokevinma]
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Jessie Sholler** | Design & Front End | [https://github.com/JAE-S]
+* **William Whitted** | Routing & Authentication |  [https://github.com/youngedre]
+* **Matthew Parks** | Front End | [https://github.com/MPA120]
+* **Scott Moore** | Back End | [https://github.com/woodwindscott]
+* **Kevin Zhao Ma** | Authentication | [https://github.com/zhaokevinma]
 
 ## Acknowledgments
 
